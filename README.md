@@ -1,2 +1,2 @@
 # combinatorics_python
-Code from article about basic combinatorics
+The code from the article about basic combinatorics
